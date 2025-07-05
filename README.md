@@ -20,7 +20,7 @@ This is the official CLI client that connects to a `wrong-answer` server instanc
 ### Installation
 
 ```bash
-git clone https://github.com/yourname/wrong-answer-client.git
+git clone https://github.com/jad0s/wrong-answer-client.git
 cd wrong-answer-client
 go run .
 ```
@@ -49,7 +49,7 @@ You will be asked to enter a username and then wait for the game to start.
 
 This client requires a running instance of the `wrong-answer` server.
 
-Repository: https://github.com/yourname/wrong-answer
+Repository: https://github.com/jad0s/wrong-answer
 
 ## License
 
